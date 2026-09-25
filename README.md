@@ -79,20 +79,7 @@ A platform that automates FX hedging for businesses with international exposure.
 
 <br/>
 
-### Experience
-
-```
-Snyk           Senior Full Stack Engineer     Mar 2024 – Present
-Contentsquare  Middle Full Stack Engineer     Feb 2022 – Mar 2024
-Exoft          Junior JavaScript Developer    Nov 2020 – Jan 2022
-```
-
 <br/>
-
-### Certifications
-
-- Terraform Associate — HashiCorp, 2025
-- CKAD (Certified Kubernetes Application Developer) — Linux Foundation, 2024
 
 <br/>
 
