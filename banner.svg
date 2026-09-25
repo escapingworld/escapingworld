@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+
+  <!-- back mountain range -->
+  <polyline points="0,220 120,150 220,200 340,120 460,190 600,140 740,205 880,130 1000,195 1120,150 1200,190 1200,300 0,300"
+            fill="none" stroke="#30363d" stroke-width="2"/>
+  <polygon points="0,220 120,150 220,200 340,120 460,190 600,140 740,205 880,130 1000,195 1120,150 1200,190 1200,300 0,300"
+           fill="#161b22" opacity="0.6"/>
+
+  <!-- front mountain range -->
+  <polygon points="0,260 150,190 300,250 480,170 650,240 820,180 1000,245 1200,200 1200,300 0,300"
+           fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <!-- tiny figure -->
+  <g transform="translate(600,235)">
+    <circle cx="0" cy="-14" r="5" fill="#8b949e"/>
+    <line x1="0" y1="-9" x2="0" y2="10" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="-2" x2="-8" y2="6" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="-2" x2="8" y2="6" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="10" x2="-6" y2="24" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="10" x2="6" y2="24" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <text x="60" y="70" font-family="Consolas, Menlo, monospace" font-size="42" font-weight="700" fill="#e6edf3">Vitaliy Bobyk</text>
+  <text x="60" y="105" font-family="Consolas, Menlo, monospace" font-size="18" fill="#8b949e">Senior Full-Stack Engineer &#183; React &#183; Next.js &#183; Node.js &#183; TypeScript</text>
+</svg>
