@@ -20,7 +20,7 @@ I work best where ownership actually means something: shaping a solution with pr
 
 <br/>
 
-### Currently building
+### Project
 
 **[Bound](https://bound.co) — FX Hedging Fintech Platform**
 A platform that automates FX hedging for businesses with international exposure. React/Next.js dashboard for live currency exposure and one-click trade booking, a Node.js/TypeScript backend exposing REST/GraphQL APIs, PostgreSQL for transactional data, and live integrations across six external financial systems (Xero, QuickBooks, NetSuite, Stripe, Revolut, bank feeds) — handling OAuth, webhooks, and data sync end to end.
